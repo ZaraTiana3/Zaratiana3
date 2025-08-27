@@ -2,15 +2,16 @@
 Welcome to my GitHub! I’m passionate about uncovering insights from data and building intelligent systems that make a difference. 
 
 ## 💡 Skills
-**Programming:** Python, SQL
+<ul>
+  <li>Programming: Python, SQL</li>
+  <li>Machine Learning</li>
+  <li>NLP</li>
+  <li>Computer Vision</li>
+  <li>Building agents</li>
+  <li>Visualization: Tableau</li>
+  <li>Database: PostgreSQL, MySQL</li>
+</ul>
 
-**Machine Learning
-
-**NLP
-**Computer Vision 
-**Building agents
-**Visualization: Tableau
-**Database: PostgreSQL, MySQL
 
 ## 🌟 Connect with Me
 
