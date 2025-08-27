@@ -2,6 +2,8 @@
 
 <!--
 **ZaraTiana3/Zaratiana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I am Ornella. 
+Welcome to my GitHub! I’m passionate about uncovering insights from data and building intelligent systems that make a difference. 
 
 Here are some ideas to get you started:
 
