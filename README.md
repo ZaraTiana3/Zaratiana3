@@ -2,8 +2,10 @@
 Welcome to my GitHub! I’m passionate about uncovering insights from data and building intelligent systems that make a difference. 
 
 ## 💡 Skills
-**Programming: ** Python, SQL
+**Programming:** Python, SQL
+
 **Machine Learning
+
 **NLP
 **Computer Vision 
 **Building agents
