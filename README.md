@@ -1,7 +1,7 @@
 ## Hey, I am Ornella.  👋
 Bienvenue sur mon GitHub ! Je suis passionné(e) par l’exploration de données pour en extraire des insights et par la création de systèmes intelligents.
 
-## 💡 Skills
+## 💡 Compétences
 <ul>
   <li>Language de programmation: Python, SQL</li>
   <li>Machine Learning</li>
@@ -13,7 +13,7 @@ Bienvenue sur mon GitHub ! Je suis passionné(e) par l’exploration de données
 </ul>
 
 
-## 🌟 Connect with Me
+## 🌟 Me connecter
 
 - [LinkedIn](http://www.linkedin.com/in/ornella-za)
 
