@@ -1,14 +1,14 @@
 ## Hey, I am Ornella.  👋
-Welcome to my GitHub! I’m passionate about uncovering insights from data and building intelligent systems that make a difference. 
+Bienvenue sur mon GitHub ! Je suis passionné(e) par l’exploration de données pour en extraire des insights et par la création de systèmes intelligents.
 
 ## 💡 Skills
 <ul>
-  <li>Programming: Python, SQL</li>
+  <li>Language de programmation: Python, SQL</li>
   <li>Machine Learning</li>
   <li>NLP</li>
   <li>Computer Vision</li>
-  <li>Building agents</li>
-  <li>Visualization: Tableau</li>
+  <li>Création d' agents</li>
+  <li>Visualisation: Tableau</li>
   <li>Database: PostgreSQL, MySQL</li>
 </ul>
 
