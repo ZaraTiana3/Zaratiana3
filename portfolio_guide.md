@@ -1,35 +1,34 @@
-# 🗺 My Portfolio
+# 🗺 Mon Portfolio
 
-Welcome to my data portfolio where I document a summary of my projects in the data field. 
+Bienvenue dans mon portfolio de données où je présente un résumé de mes projets réalisés
 
 ## 📚 Table of Contents
-- [Data analysis](#data-engineering)
-- [Machine learning](#sql)
-- [Computer Vision](#python)
-- [Building agents](#tableau)
+- [Data analysis](#data-analysis)
+- [Machine learning](#machine-learning)
+- [Computer Vision](#computer-vision)
+- [Building agents](#creation-d-agents)
 
 # Data Analysis
 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| Lien du projet | Description du projet | 
+|---|---|
+| 🚗 [Analyse des données de Bellabeat](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Bellabeat-case-study))  |Etude des habitudes d'utilisation des objets connectés. |
+| 🐶 [Analyse des données de Bike Share](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Cyclicist-bike-share-Analysis-Case-study) | Etude comparative de l’utilisation des vélos par les membres |
 
 ***
 
 # Machine Learning
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| Lien du projet | Description du projet  | 
+|---|---|
+|[Détection d'anomalies reseau](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/Detection_d_anomalies_reseau)) | Concevoir un modele capable d’identifier des comportements atypiques dans le trafic réseau qui peuvent correspondre à  des attaques ou des activités inhabituelles avec le modele autoencodeur| 
+| [Implémentation d’un modèle de prédiction des loyers de maison](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/House_rent_prediction) | Health analysis | Développer un modèle de Machine Learning supervisé capable de prédire le loyer d’une maison en fonction de ses caractéristiques avec le modele Random Forest  |    
 
 ***
 
 # Computer Vision
 
-| Project Link |  Description du projet|    
+| Lien du projet |  Description du projet  |    
 |---|---|
 | 👩🏻‍💻 [Détection de port de masque facial ](https://github.com/ZaraTiana3/data-science/tree/main/Computer_vision/Face_mask_detection)) | Ce projet met en place un modèle de vision par ordinateur pour détecter si une personne porte un masque facial ou non.Il s’appuie sur MTCNN pour la détection des visages et VGG16 (réseau pré-entraîné) pour la classification | 
 
