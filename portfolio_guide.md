@@ -45,7 +45,7 @@ Welcome to my data portfolio where I document a summary of my projects in the da
 
 |Lien du projet|  Description du projet |
 |---|---|
-| 🦄 [Agent IA pour gestion de données et ventes](https://github.com/ZaraTiana3/data-science/blob/main/AI_agents/Agent_IA_pour_gestion_de_donn%C3%A9es_et_ventes/Readme.md) | Création d’un assistant intelligent capable d’exploiter une base de données produits pour automatiser le suivi des stocks, analyser les ventes  et calculer automatiquement les totaux (prix de revient, prix de vente, bénéfices) en utiliant l'outil Langchain , des outils MCP et une interface réalisée avec Streamlit |
+| [Agent IA pour gestion de données et ventes](https://github.com/ZaraTiana3/data-science/blob/main/AI_agents/Agent_IA_pour_gestion_de_donn%C3%A9es_et_ventes) | Création d’un assistant intelligent capable d’exploiter une base de données produits pour automatiser le suivi des stocks, analyser les ventes  et calculer automatiquement les totaux (prix de revient, prix de vente, bénéfices) en utiliant l'outil Langchain , des outils MCP et une interface réalisée avec Streamlit |
 
 ***
 
