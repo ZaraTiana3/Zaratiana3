@@ -16,7 +16,7 @@ Ici se trouve mon portfolio ou je présente mes <a href = "https://github.com/Za
 </ul>
 
 
-## 🌟 Me connecter
+## 🌟 Me contacter
 
 - [LinkedIn](http://www.linkedin.com/in/ornella-za)
 
