@@ -12,7 +12,7 @@ Bienvenue dans mon portfolio  où je présente un résumé de mes projets réali
 
 | Lien du projet | Description du projet | 
 |---|---|
-| [Analyse des données de Bellabeat](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Bellabeat-case-study))  |Etude des habitudes d'utilisation des objets connectés. |
+| [Analyse des données de Bellabeat](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Bellabeat-case-study)  |Etude des habitudes d'utilisation des objets connectés. |
 |  [Analyse des données de Bike Share](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Cyclicist-bike-share-Analysis-Case-study) | Etude comparative de l’utilisation des vélos par les membres |
 
 ***
@@ -21,7 +21,7 @@ Bienvenue dans mon portfolio  où je présente un résumé de mes projets réali
 
 | Lien du projet | Description du projet  | 
 |---|---|
-|[Détection d'anomalies reseau](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/Detection_d_anomalies_reseau)) | Concevoir un modele capable d’identifier des comportements atypiques dans le trafic réseau qui peuvent correspondre à  des attaques ou des activités inhabituelles avec le modele autoencodeur| 
+|[Détection d'anomalies reseau](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/Detection_d_anomalies_reseau) | Concevoir un modele capable d’identifier des comportements atypiques dans le trafic réseau qui peuvent correspondre à  des attaques ou des activités inhabituelles avec le modele autoencodeur| 
 | [Implémentation d’un modèle de prédiction des loyers de maison](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/House_rent_prediction) | Health analysis | Développer un modèle de Machine Learning supervisé capable de prédire le loyer d’une maison en fonction de ses caractéristiques avec le modele Random Forest  |    
 
 ***
@@ -30,7 +30,7 @@ Bienvenue dans mon portfolio  où je présente un résumé de mes projets réali
 
 | Lien du projet |  Description du projet  |    
 |---|---|
-|  [Détection de port de masque facial ](https://github.com/ZaraTiana3/data-science/tree/main/Computer_vision/Face_mask_detection)) | Ce projet met en place un modèle de vision par ordinateur pour détecter si une personne porte un masque facial ou non.Il s’appuie sur MTCNN pour la détection des visages et VGG16 (réseau pré-entraîné) pour la classification | 
+|  [Détection de port de masque facial ](https://github.com/ZaraTiana3/data-science/tree/main/Computer_vision/Face_mask_detection) | Ce projet met en place un modèle de vision par ordinateur pour détecter si une personne porte un masque facial ou non.Il s’appuie sur MTCNN pour la détection des visages et VGG16 (réseau pré-entraîné) pour la classification | 
 
 ***
 
@@ -41,6 +41,13 @@ Bienvenue dans mon portfolio  où je présente un résumé de mes projets réali
 | [Agent IA pour gestion de données et ventes](https://github.com/ZaraTiana3/data-science/blob/main/AI_agents/Agent_IA_pour_gestion_de_donn%C3%A9es_et_ventes) | Création d’un assistant intelligent capable d’exploiter une base de données produits pour automatiser le suivi des stocks, analyser les ventes  et calculer automatiquement les totaux (prix de revient, prix de vente, bénéfices) en utilisant l'outil Langchain , des outils MCP et une interface réalisée avec Streamlit |
 
 ***
+# Autres projets
 
+|Lien du projet|  Description du projet |
+|---|---|
+| [Algorithme de resolution des  jeux de puzzle Color Water Sort](https://github.com/ZaraTiana3/Python_project/tree/main/Color_water_sort) | Ce projet est réalisé avec l'algorithme backtracking |
+| [API de gestion des commandes et des livraisons dans un  restaurant](https://github.com/ZaraTiana3/LittleLemonAPI)| Projet de fin de parcours Google issu de la formation en ligne sur Coursera, réalisé avec Django Rest Framework. |
+
+***
 
 
