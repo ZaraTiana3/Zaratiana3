@@ -12,8 +12,8 @@ Bienvenue dans mon portfolio de données où je présente un résumé de mes pro
 
 | Lien du projet | Description du projet | 
 |---|---|
-| 🚗 [Analyse des données de Bellabeat](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Bellabeat-case-study))  |Etude des habitudes d'utilisation des objets connectés. |
-| 🐶 [Analyse des données de Bike Share](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Cyclicist-bike-share-Analysis-Case-study) | Etude comparative de l’utilisation des vélos par les membres |
+| [Analyse des données de Bellabeat](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Bellabeat-case-study))  |Etude des habitudes d'utilisation des objets connectés. |
+|  [Analyse des données de Bike Share](https://github.com/ZaraTiana3/data-science/tree/main/data_analysis/Cyclicist-bike-share-Analysis-Case-study) | Etude comparative de l’utilisation des vélos par les membres |
 
 ***
 
@@ -30,7 +30,7 @@ Bienvenue dans mon portfolio de données où je présente un résumé de mes pro
 
 | Lien du projet |  Description du projet  |    
 |---|---|
-| 👩🏻‍💻 [Détection de port de masque facial ](https://github.com/ZaraTiana3/data-science/tree/main/Computer_vision/Face_mask_detection)) | Ce projet met en place un modèle de vision par ordinateur pour détecter si une personne porte un masque facial ou non.Il s’appuie sur MTCNN pour la détection des visages et VGG16 (réseau pré-entraîné) pour la classification | 
+|  [Détection de port de masque facial ](https://github.com/ZaraTiana3/data-science/tree/main/Computer_vision/Face_mask_detection)) | Ce projet met en place un modèle de vision par ordinateur pour détecter si une personne porte un masque facial ou non.Il s’appuie sur MTCNN pour la détection des visages et VGG16 (réseau pré-entraîné) pour la classification | 
 
 ***
 
