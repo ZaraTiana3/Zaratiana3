@@ -22,7 +22,7 @@ Bienvenue dans mon portfolio  où je présente un résumé de mes projets réali
 | Lien du projet | Description du projet  | 
 |---|---|
 |[Détection d'anomalies reseau](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/Detection_d_anomalies_reseau) | Concevoir un modele capable d’identifier des comportements atypiques dans le trafic réseau qui peuvent correspondre à  des attaques ou des activités inhabituelles avec le modele autoencodeur| 
-| [Implémentation d’un modèle de prédiction des loyers de maison](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/House_rent_prediction) | | Développer un modèle de Machine Learning supervisé capable de prédire le loyer d’une maison en fonction de ses caractéristiques avec le modele Random Forest  |    
+| [Implémentation d’un modèle de prédiction des loyers de maison](https://github.com/ZaraTiana3/data-science/tree/main/Machine_Learning/House_rent_prediction) |  Développer un modèle de Machine Learning supervisé capable de prédire le loyer d’une maison en fonction de ses caractéristiques avec le modele Random Forest  |    
 
 ***
 
