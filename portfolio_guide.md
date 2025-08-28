@@ -41,15 +41,13 @@ Welcome to my data portfolio where I document a summary of my projects in the da
 
 ***
 
-# Building agents
+# Création d'agents
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
-
-***
-
-
+|Lien du projet|  Description du projet |
+|---|---|
+| 🦄 [Agent IA pour gestion de données et ventes](https://github.com/ZaraTiana3/data-science/blob/main/AI_agents/Agent_IA_pour_gestion_de_donn%C3%A9es_et_ventes/Readme.md) | Création d’un assistant intelligent capable d’exploiter une base de données produits pour automatiser le suivi des stocks, analyser les ventes  et calculer automatiquement les totaux (prix de revient, prix de vente, bénéfices) en utiliant l'outil Langchain , des outils MCP et une interface réalisée avec Streamlit |
 
 ***
+
+
+
