@@ -1,6 +1,6 @@
 # 🗺 Mon Portfolio
 
-Bienvenue dans mon portfolio de données où je présente un résumé de mes projets réalisés
+Bienvenue dans mon portfolio  où je présente un résumé de mes projets réalisés
 
 ## 📚 Table of Contents
 - [Data analysis](#data-analysis)
