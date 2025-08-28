@@ -7,7 +7,7 @@ Bienvenue dans mon portfolio  où je présente un résumé de mes projets réali
 - [Machine learning](#machine-learning)
 - [Computer Vision](#computer-vision)
 - [Building agents](#creation-d-agents)
-
+- [Autres projets](#autres-projets)
 # Data Analysis
 
 | Lien du projet | Description du projet | 
