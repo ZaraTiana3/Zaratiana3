@@ -1,5 +1,5 @@
 ## Hey, I am Ornella.  👋
-Bienvenue sur mon GitHub ! Je suis passionné(e) par l’exploration de données pour en extraire des insights et par la création de systèmes intelligents.
+Bienvenue sur mon GitHub ! Je suis passionnée par l’exploration de données pour en extraire des insights et par la création de systèmes intelligents.
 
 ## 📚 Projets
 Ici se trouve mon portfolio ou je présente mes <a href = "https://github.com/ZaraTiana3/Zaratiana3/blob/main/portfolio_guide.md"> projets</a>
